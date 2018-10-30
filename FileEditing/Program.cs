@@ -22,8 +22,9 @@ namespace FileEditing
                 {
                     int actualChar = fs.ReadByte();
                     Console.WriteLine("The actual bíte is: " + actualChar + " in char: " + (char)(actualChar));
-                    //Console.WriteLine((char)(155));
+                    
                 }
+                Console.WriteLine((char)(155));
             }
             else
             {
