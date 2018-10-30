@@ -17,7 +17,7 @@ namespace FileEditing
                 FileStream fs = new FileStream(localFile, FileMode.Open, FileAccess.ReadWrite, FileShare.Read);
                 Console.WriteLine(fs.Name);
                 Console.WriteLine(fs.Length);
-                Console.WriteLine(fs.Position);
+                Console.WriteLine(fs.Position); 
                 while (fs.Position < fs.Length)
                 {
                     int actualChar = fs.ReadByte();
