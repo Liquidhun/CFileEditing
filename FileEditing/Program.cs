@@ -25,6 +25,7 @@ namespace FileEditing
                     
                 }
                 Console.WriteLine((char)(155));
+                Console.WriteLine((char)(055));
             }
             else
             {
