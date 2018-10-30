@@ -1,0 +1,5 @@
+﻿Első kérdés;Válasz1;Válasz2;
+Második kérdés;Válasz1;Válasz2;
+Harmadik kérdés;Válasz1;Válasz2;
+Negyedik kérdés;Válasz1;Válasz2;
+Ötödik kérdés;Válasz1;Válasz2;
